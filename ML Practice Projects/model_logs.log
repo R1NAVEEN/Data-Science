@@ -1,0 +1,2 @@
+2024-04-17 12:05:19,687 - INFO - Random Forest: Accuracy=None, Precision=None, Recall=None, F1=None
+2024-04-17 12:05:25,307 - INFO - Random Forest: Accuracy=0.9854, Precision=1.0, Recall=0.9709, F1=0.9852
